@@ -1,7 +1,7 @@
 # uxd-research-repo
 User Experience Design Research Repository
 
-Welcome to my UXD Research repository. This is a living archive of my growth as a UX professional focusing on research, systems thinking, facilitation, and collaboration.  
+Welcome to my UXD Research Repository. This is a living archive of my growth as a UX professional focusing on research, systems thinking, facilitation, and collaboration.  
 **Note**: This is *not* a coding portfolio.
 
 ## 🌱 Purpose
@@ -25,7 +25,7 @@ I believe great UX emerges from a deep understanding of people, cross-disciplina
 
 ## 🔗 External Links
 
-- [LinkedIn][https://www.linkedin.com/in/epmoore/]
+- [https://www.linkedin.com/in/epmoore/]
 
 ## 📬 Questions or Collaboration?
 
