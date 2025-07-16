@@ -1,5 +1,5 @@
-**Project:** Website Redesign for NIH Executive Support Team 
-**Client:** NIH, Office of the Executive Secretariat 
+**Project:** Website Redesign for NIH Executive Support Team <br>
+**Client:** NIH, Office of the Executive Secretariat <br>
 **Role:** UX Design Lead
 
 I led a **6-week website redesign** effort for the NIH Executive Support Team, managing a **team of 3** and balancing tight timelines with high visibility requirements. The original site was disorganized and content-heavy, which made it difficult for internal stakeholders to find critical information during the COVID-19 response.
