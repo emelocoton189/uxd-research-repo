@@ -1,5 +1,5 @@
-**Project:** Information Architecture of Customer Collaboration Portal 
-**Client:** FDA, Centers for Devices and Radiological Health 
+**Project:** Information Architecture of Customer Collaboration Portal <br>
+**Client:** FDA, Centers for Devices and Radiological Health <br>
 **Role:** UX Design Lead
 
 When I joined the workstream, the product team was struggling to justify competing screen designs. Screens were built based on **stakeholder assumptions**, not verified user needs, and neither side could clearly articulate why their design was best.
