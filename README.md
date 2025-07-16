@@ -25,7 +25,7 @@ I believe great UX emerges from a deep understanding of people, cross-disciplina
 
 ## 🔗 External Links
 
-- [LinkedIn](https://linkedin.com/in/yourname)
+- [LinkedIn][https://www.linkedin.com/in/epmoore/]
 
 ## 📬 Questions or Collaboration?
 
