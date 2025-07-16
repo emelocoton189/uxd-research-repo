@@ -1,5 +1,5 @@
-**Project:** Website Redesign for Texas Legislative Council 
-**Client:** Texas Legislative Council, Research Division 
+**Project:** Website Redesign for Texas Legislative Council <br>
+**Client:** Texas Legislative Council, Research Division <br>
 **Role:** Solo UX Designer & Project Manager
 
 I spearheaded the redesign of **4 external agency applications** over several years, operating as the **sole UX professional** on the team. Before the redesign, user engagement was low and stakeholder feedback indicated difficulty finding key resources.
