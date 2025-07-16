@@ -1,5 +1,5 @@
-**Project:** Application Design Research for Foreign Financial Disclosure Reporting 
-**Client:** NSF, IT Mission Application Support 
+**Project:** Application Design Research for Foreign Financial Disclosure Reporting<br>
+**Client:** NSF, IT Mission Application Support<br>
 **Role:** UX Analyst & Research Lead
 
 When I joined the workstream, UX deliverables for a critical support request kept getting rejected and stakeholders were frustrated by missed requirements. I recognized that the **scope had outgrown the original support request**, so I escalated it to the UX Team Lead, proposing a reframe based on information architecture gaps and unmet user needs.
