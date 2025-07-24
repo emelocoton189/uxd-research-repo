@@ -11,13 +11,13 @@ After launch, a user described the new interface as “much cleaner” than lega
 <br>
 <br>
 **The full story:** <br>
-I still remember the tension in the client’s voice. They were under a congressionally mandated deadline, tasked with collecting sensitive financial disclosures from U.S. research institutions with data that could be FOIA’d and had implications for national security. And yet, what they’d requested from our team was a basic support ticket—for a _web form._
+I still remember the tension in the client’s voice. They were under a congressionally mandated deadline, tasked with collecting sensitive financial disclosures from U.S. research institutions with data that could be FOIA’d and had implications for national security. And yet, what they’d requested from our team was a basic support ticket — for a _web form._
 
-Something didn’t sit right with me.
+That didn’t sit right with me.
 
-We were asking institutions to report every contribution received from foreign entities of concern, including names, addresses, amounts, donation dates, and even intermediaries or suspected government agents. I kept picturing a compliance officer at a large university trying to log 400+ entries manually with no ability to track amendments. There was no way a simple form could support such a complex task. This wasn’t a bug fix—it was a system design problem.
+We were asking institutions to report every contribution received from foreign entities of concern, including names, addresses, amounts, donation dates, and even intermediaries or suspected government agents. I kept picturing a compliance officer at a large university trying to log 400+ entries manually with no ability to track amendments. There was no way a simple form could support such a complex task. This wasn’t a bug fix. It was a system design problem.
 
-I brought it to my UX Lead, and we decided to approach the PM together. It wasn’t easy. We didn’t want to embarrass the client or suggest they’d misjudged the scope. But we did want to show them a better way. I sketched low-fidelity wireframes to convey the experience I imagined — streamlined, scalable, and clear. We emphasized reduced clicks, better visual hierarchy, and a user flow that could handle complexity without overwhelming the user.
+I brought it to my UX Lead, and we decided to approach the PM together. It wasn’t easy. We didn’t want to embarrass the client or suggest they’d misjudged the scope. But we did want to show them a better way. I sketched low-fidelity wireframes to convey the experience I imagined: streamlined, scalable, and clear. We emphasized reduced clicks, better visual hierarchy, and a user flow that could handle complexity without overwhelming the user.
 
 They agreed.
 
@@ -26,8 +26,7 @@ That green light turned into a year-long roadmap. I kicked off usability testing
 Then another curveball: the client went dark. They were deep in cross-agency negotiations on the PAPPG 2024 publication, leaving our approvals stalled. Time got tight. Tempers rose. But our team pulled together, adjusted timelines, and kept delivery on track.
 
 When the new application launched, we had over 15,000 submissions within the first year. We hadn’t just built a tool, we had reinforced user trust. Some users emailed their leadership just to say thank you. One even told my supervisor that this system would save them “hours of hell” during future reporting cycles.
-
-
-**✨ Takeaway:**
-
-This wasn’t just about fixing a form. It was about listening closely, advocating diplomatically, and designing a system that gave people peace of mind. It reminded me that sometimes the most powerful UX work happens before a single pixel is drawn — when I'm brave enough to ask, “Are we even solving the right problem?”
+<br>
+<br>
+**✨ Takeaway:** <br>
+This wasn’t just about fixing a form. It was about listening closely, advocating diplomatically, and designing a system that gave people peace of mind. It reminded me that sometimes the most powerful UX work happens before a single pixel is drawn; when I'm brave enough to ask, “Are we even solving the right problem?”
