@@ -8,9 +8,9 @@ When I joined the workstream, UX deliverables for a critical support request kep
 I led **usability testing to investigate pain points** and discovered that users couldn’t edit submitted forms or easily add multiple entries, causing excessive rework and frustration. Instead of proceeding with the planned basic web form, I **recommended and supported the design of a stand-alone application** with streamlined features to match real user workflows.
 
 After launch, a user described the new interface as “much cleaner” than legacy portals. Within the first year, the app supported over **15,000 successful submissions**, dramatically improving usability and stakeholder satisfaction.
-
-
-The full story:
+<br>
+<br>
+The full story:<br>
 I still remember the tension in the client’s voice. They were under a congressionally mandated deadline, tasked with collecting sensitive financial disclosures from U.S. research institutions with data that could be FOIA’d and had implications for national security. And yet, what they’d requested from our team was a basic support ticket—for a _web form._
 
 Something didn’t sit right with me.
