@@ -19,9 +19,9 @@ We were asking institutions to report every contribution received from foreign e
 
 I brought it to my UX Lead, and we decided to approach the PM together. It wasn’t easy. We didn’t want to embarrass the client or suggest they’d misjudged the scope. But we did want to show them a better way. I sketched low-fidelity wireframes to convey the experience I imagined — streamlined, scalable, and clear. We emphasized reduced clicks, better visual hierarchy, and a user flow that could handle complexity without overwhelming the user.
 
-They agreed
+They agreed.
 
-That green light turned into a year-long roadmap. I kicked off usability testing, but during the reporting phase, I hit a snag. Our test participants weren’t the right users. It was a misunderstanding carried over from a previous engagement. I owned the error, revised our test plan, and immediately reran sessions with the correct group.
+That green light turned into a year-long roadmap. I kicked off usability testing, but I hit a snag during the reporting phase. Our test participants weren’t the right users. It was a misunderstanding carried over from a previous engagement. I owned the error, revised our test plan, and immediately reran sessions with the correct group.
 
 Then another curveball: the client went dark. They were deep in cross-agency negotiations on the PAPPG 2024 publication, leaving our approvals stalled. Time got tight. Tempers rose. But our team pulled together, adjusted timelines, and kept delivery on track.
 
