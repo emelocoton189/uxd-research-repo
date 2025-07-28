@@ -1,20 +1,32 @@
-🪞 Reflections: “What if the system is working exactly as designed?”
+**Project:** Application Design Research for Foreign Financial Disclosure Reporting<br>
+**Client:** NSF, IT Mission Application Support<br>
+**Role:** UX Analyst & Research Lead
 
-When I was laid off in June 2025, I expected a rough transition. What I didn’t expect was that applying for unemployment insurance in Virginia would become the hardest user journey I’ve ever navigated, and I work in systems design for a living. 
+**The tldr;** <br>
+When I joined the workstream, UX deliverables for a critical support request kept getting rejected, and stakeholders were frustrated by missed requirements. I recognized that the scope had outgrown the original support request, so I escalated it to the UX Team Lead, proposing a reframe based on information architecture gaps and unmet user needs.
 
-I don’t consider myself an inflammatory person. I’m someone who gives the benefit of the doubt. When a service fails, I tend to assume it’s a bad day, not a bad system. But the Virginia Employment Commission (VEC) tested that philosophy to its limits. 
+I led usability testing to investigate pain points and discovered that users couldn’t edit submitted forms or easily add multiple entries, causing excessive rework and frustration. Instead of proceeding with the planned basic web form, I recommended and supported the design of a stand-alone application with streamlined features to match real user workflows.
 
-It began with a login issue. Then came failing authentication, rejected uploads, unsaveable forms, broken buttons, and entire pages that switched languages without warning.  I encountered dark pattern after dark pattern, each one a roadblock demanding workarounds.  Some days, I translated the site with ChatGPT just to make sense of it. Other days, I physically drove to the Career Works office, where I learned from kind and overworked staff that even the phone system has undocumented rules you have to memorize if you don’t want your claim delayed.
+After launch, a user described the new interface as “much cleaner” than legacy portals. Within the first year, the app supported over 15,000 successful submissions, dramatically improving usability and stakeholder satisfaction.
+<br>
+<br>
+**The full story:** <br>
+I still remember the tension in the client’s voice. They were under a congressionally mandated deadline, tasked with collecting sensitive financial disclosures from U.S. research institutions with data that could be FOIA’d and had implications for national security. And yet, what they’d requested from our team was a basic support ticket — for a _web form._
 
-Each visit felt like uncovering a hidden level of a poorly designed game. One that punishes you for playing. And still, after a full month, I have received no payment.
+That didn’t sit right with me.
 
-Somewhere in the middle of it, a thought hit me like a punchline: *Maybe this system wasn’t broken by accident. Maybe this is what it looks like when a system works exactly as designed.*
+We were asking institutions to report every contribution received from foreign entities of concern, including names, addresses, amounts, donation dates, and even intermediaries or suspected government agents. I kept picturing a compliance officer at a large university trying to log 400+ entries manually with no ability to track amendments. There was no way a simple form could support such a complex task. This wasn’t a bug fix. It was a system design problem.
 
-It was a bitter realization. Every digital interface is made of decisions. People built this system. Others funded it. And someone, somewhere, allowed it to remain this hard to use for years. During one of the most financially vulnerable moments in a person’s life.
+I brought it to my UX Lead, and we decided to approach the PM together. It wasn’t easy. We didn’t want to embarrass the client or suggest they’d misjudged the scope. But we did want to show them a better way. I sketched low-fidelity wireframes to convey the experience I imagined: streamlined, scalable, and clear. We emphasized reduced clicks, better visual hierarchy, and a user flow that could handle complexity without overwhelming the user.
 
-And that’s what stayed with me. Not the bugs. Not even the lack of support. But the very human cost of a system that quietly exhausts people into giving up. I didn’t give up, but I easily could have.
+They agreed.
 
-This experience didn’t just reaffirm why I do user-centered work. It sharpened my sense of responsibility as a designer and researcher. Good systems serve people when they’re at their worst, not just their best. They lower friction. They preserve dignity. They don’t bury you under bureaucracy when you’re already buried under stress.
+That green light turned into a year-long roadmap. I kicked off usability testing, but I hit a snag during the reporting phase. Our test participants weren’t the right users. It was a misunderstanding carried over from a previous engagement. I owned the error, revised our test plan, and immediately reran sessions with the correct group.
 
-The real question isn’t “why doesn’t this work?”
-It’s *"who benefits when it doesn’t?"*
+Then another curveball: the client went dark. They were deep in cross-agency negotiations on the PAPPG 2024 publication, leaving our approvals stalled. Time got tight. Tempers rose. But our team pulled together, adjusted timelines, and kept delivery on track.
+
+When the new application launched, we had over 15,000 submissions within the first year. We hadn’t just built a tool, we had reinforced user trust. Some users emailed their leadership just to say thank you. One even told my supervisor that this system would save them “hours of hell” during future reporting cycles.
+<br>
+<br>
+**✨ Takeaway:** <br>
+This wasn’t just about fixing a form. It was about listening closely, advocating diplomatically, and designing a system that gave people peace of mind. It reminded me that sometimes the most powerful UX work happens before a single pixel is drawn; when I'm brave enough to ask, “Are we even solving the right problem?”
