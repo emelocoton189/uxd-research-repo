@@ -1,19 +1,24 @@
-**What if the system is working exactly as designed?**
-
 When I was laid off in June 2025, I expected a rough transition. What I didn’t expect was that applying for unemployment insurance in Virginia would become the hardest user journey I’ve ever navigated - and I work in systems design for a living.
-
+<br>
+<br>
 I don’t consider myself an inflammatory person. I’m someone who gives the benefit of the doubt. When a service fails, I tend to assume it’s a bad day, not a bad system. But the Virginia Employment Commission (VEC) tested that philosophy to its limits.
-
+<br>
+<br>
 It began with a login issue. Then came broken authentication, rejected uploads, unsaveable forms, inaccessible buttons, and entire pages that switched languages without warning. I encountered dark pattern after dark pattern, each one a roadblock demanding workarounds. Some days, I translated the site with ChatGPT just to make sense of it. Other days I physically drove to the Career Works office, where I learned from kind and overworked staff that even the phone system has undocumented rules you have to memorize if you don’t want your claim delayed.
-
+<br>
+<br>
 Each visit felt like uncovering a hidden level of a poorly designed game. One that punishes you for playing. And still, after a full month, I have received no payment.
-
+<br>
+<br>
 Somewhere in the middle of it, a thought hit me like a punchline: Maybe this system wasn’t broken by accident. Maybe this is what it looks like when a system works exactly as designed.
-
+<br>
+<br>
 It was a bitter realization. Every digital interface is made of decisions. People built this system. Others funded it. And someone, somewhere, allowed it to remain this hard to use for years...during one of the most financially vulnerable moments in a person’s life.
-
+<br>
+<br>
 And that’s what stayed with me. Not the bugs. Not even the lack of support. But the very human cost of a system that quietly exhausts people into giving up. I didn’t give up—but I easily could have.
-
+<br>
+<br>
 This experience didn’t just reaffirm why I do user-centered work—it sharpened my sense of responsibility as a designer and researcher. Good systems serve people when they’re at their worst, not just their best. They lower friction. They preserve dignity. They don’t bury you under bureaucracy when you’re already buried under stress.
 
 The real question isn’t “why doesn’t this work?”
