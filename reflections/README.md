@@ -1,4 +1,4 @@
 # 🪞 Reflections
 
 Where I talk to myself so future-me remembers what past-me learned.  
-Insights from books, podcasts, courses, and the occasional existential UX spiral. (*section always a work in progress)
+A curated collection of personal learnings drawn from books, courses, podcasts, and hands-on problem-solving. This section captures how I process (new) ideas, reflect on challenges, and evolve my thinking—whether through structured learning or real-world experience. *Always in progress, and grounded in curiosity + continuous growth.
