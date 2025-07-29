@@ -1,7 +1,7 @@
 # uxd-research-repo
 User Experience Design Research Repository
 
-Welcome to my UXD Research Repository. This is a living archive of my growth as a UX professional focusing on research, systems thinking, facilitation, and collaboration.  
+Welcome! This is a living archive of my growth as a UX professional focusing on research, systems thinking, facilitation, and collaboration.  
 **Note**: This is *not* a coding portfolio.
 
 ## 🌱 Purpose
