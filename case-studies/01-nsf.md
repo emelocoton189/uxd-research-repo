@@ -29,4 +29,4 @@ When the new application launched, we had over 15,000 submissions within the fir
 <br>
 <br>
 **✨ Takeaway:** <br>
-This wasn’t just about fixing a form. It was about listening closely, advocating diplomatically, and designing a system that gave people peace of mind. It reminded me that sometimes the most powerful UX work happens before a single pixel is drawn; when I'm brave enough to ask, “Are we even solving the right problem?”
+This wasn’t just about fixing a form. It was about listening closely, advocating diplomatically, and designing a system that gave people peace of mind. It reminded me that sometimes the most powerful UX work happens before a single pixel is drawn; when I'm brave enough to ask, “Is there a better way?”
