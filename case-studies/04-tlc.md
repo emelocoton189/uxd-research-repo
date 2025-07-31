@@ -21,7 +21,7 @@ So, I did what I could with what I had.
 
 I taught myself how to lead UX work in a vacuum: how to design without direction, test without permission, and promote without precedent. I created the agency’s first design documentation for continuity. I trained colleagues in research methods. I adapted our process so even those resistant to change could still contribute meaningfully, like restructuring team meetings into feedback sessions, where vetted options were voted on democratically. People felt heard, and slowly, things began to shift.
 
-There was one moment I’ll never forget: recruiting public users during an active legislative session, which is _peak_ chaos. Everyone told me it couldn’t be done. But I found a way—by framing the research as citizen service, not usability testing. That shift in language changed everything. We got buy-in, and more importantly, we got insights that improved the experience.
+There was one moment I’ll never forget: recruiting public users during an active legislative session, which is _peak_ chaos. Everyone told me it couldn’t be done. But I found a way: by framing the research as citizen service, not usability testing. That shift in language changed everything. We got buy-in, and more importantly, we got insights that improved the experience.
 
 Looking back, I didn’t realize how much I was learning while I was just trying to get work done. I learned how to lead without authority, how to navigate resistance with empathy, and how to persist when no one is cheering you on.
 <br>
