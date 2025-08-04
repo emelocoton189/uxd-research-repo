@@ -12,9 +12,9 @@ Now, that system supports everything from job applications to insurance claims t
 
 The lesson? Sometimes UX isn’t a job. It’s a way of making life more livable. This project helped me feel more grounded, more equipped, and more confident, even in uncertain situations.
 
-Filing system (below)
+Filing system (below)<br>
 <img width="343" height="398" alt="Screen Shot 2025-08-04 at 11 15 06 AM" src="https://github.com/user-attachments/assets/c7f8e9a2-ed03-4785-a9cc-e91b46fccb58" />
-
-
-README docs (below)
+<br>
+<br>
+README docs (below)<br>
 <img width="675" height="500" alt="Screen Shot 2025-08-04 at 11 15 37 AM" src="https://github.com/user-attachments/assets/3c837912-0c9c-4f6b-a842-9e36299a8e8d" />
