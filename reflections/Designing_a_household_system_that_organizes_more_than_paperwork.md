@@ -2,7 +2,7 @@ There’s something surprisingly revealing about looking around your home and re
 
 When I was laid off, the first wave of emotion was disorientation: 'What now?' But it quickly gave way to curiosity: 'What if I treated this moment like a design sprint? Not just for career recalibration, but for my life at home?'
 
-So I did what any UX strategist might do. I audited my surroundings. My home office was a patchwork of beautiful heirlooms, overstuffed storage, snack drawers disguised as printer stations, and —my nemesis— paper piles. I couldn’t focus. I couldn’t prioritize. And that was my insight. My clutter wasn’t just a mess, it was _friction_.
+So I did what any UX strategist might do. I audited my surroundings. My home office was a patchwork of beautiful heirlooms, overstuffed storage, snack drawers disguised as printer stations, and —my nemesis— paper piles. I couldn’t focus. I couldn’t prioritize. And that was my insight. My clutter wasn’t just a mess, but it was _friction_.
 
 Could I build a system that reduced friction in my real life the same way UX reduces digital friction?
 
