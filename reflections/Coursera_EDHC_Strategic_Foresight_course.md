@@ -111,7 +111,7 @@ Why: Big Bets have the highest potential payoff, but also the highest risk if th
 
 <img width="764" height="274" alt="Screen Shot 2025-08-05 at 2 10 23 PM" src="https://github.com/user-attachments/assets/4c6023bb-830c-47f5-8ce7-840a45b365ab" /><br>
 
-Signals: _What to watch for_
+Signals: _What to watch for_<br>
 These are early signs (weak or strong) that indicate a shift is happening in the environment, market, or personal circumstances.
 * Purpose: Help you see change before it becomes obvious so you can prepare.
 * Examples:
@@ -120,7 +120,7 @@ These are early signs (weak or strong) that indicate a shift is happening in the
     * Content you post starts gaining organic traction (comments, shares, follows).
     * Tuition for the desired program increases or scholarships become available.
 
-Metrics: _How you measure progress_
+Metrics: _How you measure progress_<br>
 Specific, quantifiable numbers you track to know if you’re moving toward a goal.
 * Purpose: Keep progress visible and reduce emotional bias in decision-making.
 * Examples:
@@ -129,7 +129,7 @@ Specific, quantifiable numbers you track to know if you’re moving toward a goa
     * Subscriber growth or engagement rate for content creation.
     * Number of industry contacts you’ve spoken to in the past month.
 
-Triggers: _What tells you to act_
+Triggers: _What tells you to act_<br>
 Pre-defined thresholds or events that tell you it’s time to scale up, pivot, or stop.
 * Purpose: Prevent “paralysis by analysis” and avoid making big moves without clear conditions.
 * Examples:
@@ -145,7 +145,7 @@ Pre-defined thresholds or events that tell you it’s time to scale up, pivot, o
 
 <img width="917" height="188" alt="Screen Shot 2025-08-05 at 12 53 40 PM" src="https://github.com/user-attachments/assets/f298f6ee-9f7e-46ac-87a6-c5ec833f80a9" /><br>
 
-Stakeholders: _Who matters in your decision_
+Stakeholders: _Who matters in your decision_<br>
 These are people, groups, or organizations who can influence your decision, be impacted by it, or help you succeed.
 * Examples with paths:
     * Go back to school: Admissions officers, professors, alumni, financial aid staff, family.
@@ -153,14 +153,14 @@ These are people, groups, or organizations who can influence your decision, be i
     * Shift industries: Recruiters, hiring managers, professional network, mentors, industry associations.
     * Content creator: Your target audience, platform algorithm teams, collaborators, sponsors, and followers.
 
-Power/Interest Matrix: _How much influence vs. how much they care_
+Power/Interest Matrix: _How much influence vs. how much they care_<br>
 Place stakeholders on a grid based on:
 * Power: How much control or influence they have over the outcome.
 * Interest: How much they care about or are affected by the decision.<br>
 
 <img width="569" height="224" alt="Screen Shot 2025-08-05 at 12 53 45 PM" src="https://github.com/user-attachments/assets/ace8825b-e253-49af-91f8-fd7efae03d55" /><br>
 
-Engagement Actions: _How to work with them_
+Engagement Actions: _How to work with them_<br>
 * High Power, High Interest:
     * Schedule regular check-ins.
     * Share progress reports or prototypes.
@@ -237,19 +237,19 @@ Add opportunity cost:
 
 <img width="913" height="157" alt="Screen Shot 2025-08-05 at 12 54 31 PM" src="https://github.com/user-attachments/assets/ce65dd37-ae44-4944-a565-aadfb8c51d97" /><br>
 
-_Definition in context_
+_Definition in context_<br>
 This step is about scoring and comparing options (paths) in two ways:
 1. Robustness- How likely is this path to work out well across multiple possible futures (not just the most probable one)?
 2. Efficacy- How well does this path meet current personal and professional goals right now, and how confident do you feel about pursuing it?
 
-_How to apply it_
+_How to apply it_<br>
 * Step 1: List decision criteria. Examples: income stability, creativity, flexibility, alignment with values, and location independence.
 * Step 2: Rate robustness. Imagine several different future scenarios (economic downturn, industry disruption, tech innovation, global mobility changes) and rate each path on how well it could still succeed in each scenario.
 * Step 3: Rate efficacy. For today’s reality, rate how well each path matches needs, priorities, and resources.
 * Step 4: Compare side-by-side. The most attractive paths will rank high on both robustness and efficacy.
 * Step 5: Spot weak points. If a path is high on efficacy but low on robustness, ask: “How can I make this option more future-proof?”
 
-_Example with paths_
+_Example with paths_<br>
 * Go back to school: High robustness (skills useful in many futures) but lower efficacy if you want immediate income.
 * Move abroad: Medium robustness (depends on political/economic stability of destination), medium efficacy if you value adventure and cultural exposure.
 * Shift industries: High robustness if industry is growing and transferable skills apply; medium efficacy if transition is slow.
@@ -260,10 +260,10 @@ _Example with paths_
 
 <img width="1013" height="182" alt="Screen Shot 2025-08-05 at 12 54 38 PM" src="https://github.com/user-attachments/assets/0a69ec61-61c9-448c-a9b0-b386351af279" /><br>
 
-_Definition in context_
+_Definition in context_<br>
 This step is about turning each possible path into an immediately actionable plan—what you can do in the next 3 months to meaningfully explore or commit to that option. Breaking it into 30 / 60 / 90 days forces you to move from vague intentions (“I could do this someday…”) to concrete, time-bound steps.
 
-_How to apply it_
+_How to apply it_<br>
 1. First 30 days – Research & Foundations
     * Gather essential information (costs, requirements, market demand, risks).
     * Identify key contacts, resources, or communities for that path.
@@ -277,7 +277,7 @@ _How to apply it_
     * Review financial, lifestyle, and time implications based on real data collected.
     * Decide whether to move forward, adapt the plan, or deprioritize this path.
 
-_Example with paths_
+_Example with paths_<br>
 * Go back to school
     * 30 days: Research programs, tuition, funding, and career outcomes.
     * 60 days: Contact alumni, take a free intro course, prepare application materials.
