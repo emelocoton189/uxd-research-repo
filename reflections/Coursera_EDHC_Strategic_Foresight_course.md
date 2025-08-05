@@ -15,7 +15,7 @@ _***Disclaimer: This content combines my notes, insights from course community d
 * Time horizon: 24–36 months. Review quarterly.
 * Possible futures: 1) Go back to school, 2) Move abroad, 3) Shift industries, 4) Build a content-creator career.<br>
   
-<img width="1000" height="1000" alt="mini_futures_wheel" src="https://github.com/user-attachments/assets/59a6971c-5ef9-4d7b-84cf-fc0c87810abf" /><br><br>
+<img width="700" height="700" alt="mini_futures_wheel" src="https://github.com/user-attachments/assets/59a6971c-5ef9-4d7b-84cf-fc0c87810abf" /><br><br>
 
 **1) Snapshot (simple comparison): What are the key features, goals, risks, and upsides of each future path?**<br>
 
