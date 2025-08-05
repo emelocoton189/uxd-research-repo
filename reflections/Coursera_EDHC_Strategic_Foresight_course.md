@@ -14,6 +14,7 @@ _***Disclaimer: This content combines my notes, insights from course community d
 * Focal question: “Which path best positions me for a resilient, meaningful career over the next 2–3 years?”
 * Time horizon: 24–36 months. Review quarterly.
 * Possible futures: 1) Go back to school, 2) Move abroad, 3) Shift industries, 4) Build a content-creator career.
+<img width="2385" height="1977" alt="mini_futures_wheel" src="https://github.com/user-attachments/assets/59a6971c-5ef9-4d7b-84cf-fc0c87810abf" />
 
 **1) Snapshot (simple comparison): What are the key features, goals, risks, and upsides of each future path?**
 <img width="914" height="293" alt="Screen Shot 2025-08-05 at 12 53 00 PM" src="https://github.com/user-attachments/assets/11d4192e-644e-45d0-8481-a888124b8100" />
