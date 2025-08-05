@@ -147,6 +147,7 @@ Place stakeholders on a grid based on:
 * Power: How much control or influence they have over the outcome.
 * Interest: How much they care about or are affected by the decision.
 <img width="569" height="224" alt="Screen Shot 2025-08-05 at 12 53 45 PM" src="https://github.com/user-attachments/assets/ace8825b-e253-49af-91f8-fd7efae03d55" /><br>
+
 Engagement Actions: _How to work with them_
 * High Power, High Interest:
     * Schedule regular check-ins.
