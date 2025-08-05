@@ -297,13 +297,13 @@ _Example with paths_<br>
 
 
 **13) Tools from the course (how to use them here): Which foresight tools should I use to analyze, test, and decide between these futures?**<br>
-Uncertainty–Impact matrix: place top 6 drivers for each path; focus work on top-right.
-Cross-impact analysis: note which drivers (e.g., funding, trust, policy) strongly affect others; treat as leading indicators.<br>
-Scenario Cross: choose two axes that differentiate decisions most (e.g., Funding stability × Trust/Engagement) to stress-test each path.<br>
-Futures Wheel: draw chosen path in the center and map first- and second-order effects (you already have a visual).<br>
-Strategy Playbox: list 4–6 “playing fields” and 3–4 options per field (see section 4). Combine into distinct strategies.<br>
-No-regret / Options / Big bets: decide what you do now, what you scale with signals, and what you commit to with triggers.<br>
-Power–Interest matrix: plan stakeholder engagement cadence (section 7).<br>
+Uncertainty–Impact matrix: place top 6 drivers for each path; focus work on top-right.<br><br>
+Cross-impact analysis: note which drivers (e.g., funding, trust, policy) strongly affect others; treat as leading indicators.<br><br>
+Scenario Cross: choose two axes that differentiate decisions most (e.g., Funding stability × Trust/Engagement) to stress-test each path.<br><br>
+Futures Wheel: draw chosen path in the center and map first- and second-order effects (you already have a visual).<br><br>
+Strategy Playbox: list 4–6 “playing fields” and 3–4 options per field (see section 4). Combine into distinct strategies.<br><br>
+No-regret / Options / Big bets: decide what you do now, what you scale with signals, and what you commit to with triggers.<br><br>
+Power–Interest matrix: plan stakeholder engagement cadence (section 7).<br><br>
 Quarterly review: update signals, move items between no-regrets/options/big bets, and record decisions.<br><br>
 
 **How to use this**
