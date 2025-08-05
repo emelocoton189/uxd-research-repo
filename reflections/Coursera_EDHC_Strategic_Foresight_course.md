@@ -13,17 +13,17 @@ _***Disclaimer: This content combines my notes, insights from course community d
 **0) Scope and assumptions**
 * Focal question: “Which path best positions me for a resilient, meaningful career over the next 2–3 years?”
 * Time horizon: 24–36 months. Review quarterly.
-* Possible futures: 1) Go back to school, 2) Move abroad, 3) Shift industries, 4) Build a content-creator career.
+* Possible futures: 1) Go back to school, 2) Move abroad, 3) Shift industries, 4) Build a content-creator career.<br>
   
-<img width="2385" height="1977" alt="mini_futures_wheel" src="https://github.com/user-attachments/assets/59a6971c-5ef9-4d7b-84cf-fc0c87810abf" />
+<img width="2385" height="1977" alt="mini_futures_wheel" src="https://github.com/user-attachments/assets/59a6971c-5ef9-4d7b-84cf-fc0c87810abf" /><br><br>
 
-**1) Snapshot (simple comparison): What are the key features, goals, risks, and upsides of each future path?**
+**1) Snapshot (simple comparison): What are the key features, goals, risks, and upsides of each future path?**<br>
 
-<img width="914" height="293" alt="Screen Shot 2025-08-05 at 12 53 00 PM" src="https://github.com/user-attachments/assets/11d4192e-644e-45d0-8481-a888124b8100" />
+<img width="914" height="293" alt="Screen Shot 2025-08-05 at 12 53 00 PM" src="https://github.com/user-attachments/assets/11d4192e-644e-45d0-8481-a888124b8100" /><br><br>
 
-**2) STEEP drivers and top uncertainties (use Uncertainty–Impact matrix): What social, technological, economic, ecological, and political factors will most influence each path, and which are high-impact and high-uncertainty?**
+**2) STEEP drivers and top uncertainties (use Uncertainty–Impact matrix): What social, technological, economic, ecological, and political factors will most influence each path, and which are high-impact and high-uncertainty?**<br>
 
-<img width="1186" height="290" alt="Screen Shot 2025-08-05 at 12 53 12 PM" src="https://github.com/user-attachments/assets/84b0e88b-4bb0-4e2e-bec4-cac696599b66" />
+<img width="1186" height="290" alt="Screen Shot 2025-08-05 at 12 53 12 PM" src="https://github.com/user-attachments/assets/84b0e88b-4bb0-4e2e-bec4-cac696599b66" /><br><br>
 
 **3) Cross-impact highlights (which drivers move others?): Which drivers influence multiple other drivers and could create cascading effects?**
 * Common high-leverage drivers across paths: funding/costs, trust/reputation, and policy rules.
@@ -56,11 +56,11 @@ _***Disclaimer: This content combines my notes, insights from course community d
         * Consistency of publishing schedule maintained
         * Number of collaborations or guest features
         * Monthly income or sponsorship inquiries
-        * Hours spent on content creation vs. content administration
+        * Hours spent on content creation vs. content administration<br><br>
 
-**4) Strategy Playbox (choices by field): What strategic choices could I make in each path across areas like positioning, offers, channels, and revenue models?**
+**4) Strategy Playbox (choices by field): What strategic choices could I make in each path across areas like positioning, offers, channels, and revenue models?**<br>
 
-<img width="931" height="266" alt="Screen Shot 2025-08-05 at 12 53 19 PM" src="https://github.com/user-attachments/assets/0b9ba7bf-430e-47f1-ab81-febd0159376a" /><br>
+<img width="931" height="266" alt="Screen Shot 2025-08-05 at 12 53 19 PM" src="https://github.com/user-attachments/assets/0b9ba7bf-430e-47f1-ab81-febd0159376a" /><br><br>
 
 A _Strategy Playbox_ is like a menu of possible moves one could make in different parts of their career or business. Instead of deciding everything at once, break thinking into fields (categories of strategic choices), then list options under each field for each possible future path to explore. The Strategy Playbox helps you mix and match choices so you can see multiple configurations of your future without locking into one rigid plan. It’s a creative and flexible way to compare paths side by side.
 _Example fields and choices:_
@@ -74,11 +74,11 @@ _Example fields and choices:_
 3. Channels: How will you reach people or opportunities?
     * LinkedIn networking, portfolio site, GitHub projects, speaking at industry events, and guest podcasts.
 4. Revenue Models: How will you earn from this path?
-    * Salary, retainer clients, project fees, ad revenue, sponsorships, subscriptions, or royalties.
+    * Salary, retainer clients, project fees, ad revenue, sponsorships, subscriptions, or royalties.<br><br>
 
 **5) No-regret moves, Options, Big Bets (course framing): What actions should I take now, which ones should I keep flexible, and which ones require full commitment?**<br>
 
-<img width="851" height="271" alt="Screen Shot 2025-08-05 at 12 53 26 PM" src="https://github.com/user-attachments/assets/f175befa-d759-41a6-b029-d31b61c01041" /><br>
+<img width="851" height="271" alt="Screen Shot 2025-08-05 at 12 53 26 PM" src="https://github.com/user-attachments/assets/f175befa-d759-41a6-b029-d31b61c01041" /><br><br>
 
 1) No-regret moves: _Do these now._
 Actions that will benefit you no matter which future path you take. They’re safe, broadly useful, and low-risk.
@@ -105,7 +105,7 @@ Large, high-commitment actions where you’re staking your time, resources, or r
     * Relocate permanently to another country.
     * Quit job to pursue content creation full time.
     * Launch a startup or major consulting business.
-Why: Big Bets have the highest potential payoff, but also the highest risk if the chosen future doesn’t materialize.
+Why: Big Bets have the highest potential payoff, but also the highest risk if the chosen future doesn’t materialize.<br><br>
 
 **6) Signals, metrics, and triggers (leading → action): What signs should I watch for, how will I measure progress, and what will tell me to scale or pivot?**<br>
 
@@ -139,7 +139,7 @@ Pre-defined thresholds or events that tell you it’s time to scale up, pivot, o
 
 * Signals = early warnings or opportunities.
 * Metrics = the measurable proof you’re progressing.
-* Triggers = “if/then” rules for when to take action, pivot, or stop entirely.
+* Triggers = “if/then” rules for when to take action, pivot, or stop entirely.<br><br>
 
 **7) Stakeholders and engagement (Power–Interest matrix): Who has power or interest in my decision, and how should I involve them?**<br>
 
@@ -175,7 +175,7 @@ Engagement Actions: _How to work with them_
     * Keep them in your periphery, watch if their power or interest changes.
 
 * Identifying and mapping stakeholders helps you anticipate resistance, spot allies early, and avoid blindsiding key players.
-* In uncertain futures, the right engagement strategy can unlock resources, reduce risks, and speed up decision-making.
+* In uncertain futures, the right engagement strategy can unlock resources, reduce risks, and speed up decision-making.<br><br>
 
 **8) Probes and low-cost experiments (from “probing” practice): What small, low-risk tests can I run to learn before committing to a path?**<br>
 
@@ -187,7 +187,7 @@ It’s about running mini-trials to see if something works for me (or my audienc
 * If testing content creation as a career: Post consistently for a month to measure engagement and see if I enjoy the process.
 * If considering going back to school: Audit a class or join a related community group to see if the subject truly excites me.
 
-The idea is to learn fast, fail small, and gather evidence before making a major decision.
+The idea is to learn fast, fail small, and gather evidence before making a major decision.<br><br>
 
 
 **9) Risks and mitigations: What could go wrong in each path, and how can I reduce or prepare for those risks?**<br>
@@ -209,7 +209,7 @@ Design mitigation strategies:
 Prepare contingency plans:
 * Decide in advance what you’ll do if a key risk happens (e.g., backup country choice if visa denied, alternate job market if industry contracts).
 Track early warning signs:
-* Define measurable signals that a risk is becoming more likely (e.g., job postings dropping, policy updates, competitor moves).
+* Define measurable signals that a risk is becoming more likely (e.g., job postings dropping, policy updates, competitor moves).<br><br>
 
 **10) Costs, time, and simple ROI view: What will each path cost in time and money, and how long until I see returns?**<br>
 
@@ -231,7 +231,7 @@ Use a simple ROI formula:
 * ROI % = (Total Value Gained – Total Cost) ÷ Total Cost × 100
 * Keep it high-level so you can compare across paths without getting bogged down in exact accounting.
 Add opportunity cost:
-* What are you giving up by pursuing this path instead of another (e.g., missed income, slower skill growth in current field)?
+* What are you giving up by pursuing this path instead of another (e.g., missed income, slower skill growth in current field)?<br><br>
 
 **11) Decision aid: Robustness vs Efficacy (simple Parmenides-style): How well does each path meet my goals, work in multiple futures, and inspire confidence right now?**<br>
 
@@ -253,7 +253,7 @@ _Example with paths_
 * Go back to school: High robustness (skills useful in many futures) but lower efficacy if you want immediate income.
 * Move abroad: Medium robustness (depends on political/economic stability of destination), medium efficacy if you value adventure and cultural exposure.
 * Shift industries: High robustness if industry is growing and transferable skills apply; medium efficacy if transition is slow.
-* Content creator career: Low–medium robustness (depends heavily on platform and market trends), high efficacy if creativity and autonomy are top goals 
+* Content creator career: Low–medium robustness (depends heavily on platform and market trends), high efficacy if creativity and autonomy are top goals<br><br>
 
 
 **12) 30 / 60 / 90-day actions: What should I do in the first 30, 60, and 90 days to move forward on each path?**<br>
@@ -293,7 +293,7 @@ _Example with paths_
 * Content creator career
     * 30 days: Pick a niche, research platforms, and study competitors.
     * 60 days: Create and post first 3–5 content pieces, test formats.
-    * 90 days: Evaluate engagement data, refine approach, and set posting schedule.
+    * 90 days: Evaluate engagement data, refine approach, and set posting schedule.<br><br>
 
 
 **13) Tools from the course (how to use them here): Which foresight tools should I use to analyze, test, and decide between these futures?**<br>
