@@ -55,7 +55,7 @@ _***Disclaimer: This content combines my notes, insights from course community d
         * Hours spent on content creation vs. content administration
 
 **4) Strategy Playbox (choices by field): What strategic choices could I make in each path across areas like positioning, offers, channels, and revenue models?**
-<img width="931" height="266" alt="Screen Shot 2025-08-05 at 12 53 19 PM" src="https://github.com/user-attachments/assets/0b9ba7bf-430e-47f1-ab81-febd0159376a" />
+<img width="931" height="266" alt="Screen Shot 2025-08-05 at 12 53 19 PM" src="https://github.com/user-attachments/assets/0b9ba7bf-430e-47f1-ab81-febd0159376a" /><br>
 A _Strategy Playbox_ is like a menu of possible moves one could make in different parts of their career or business. Instead of deciding everything at once, break thinking into fields (categories of strategic choices), then list options under each field for each possible future path to explore. The Strategy Playbox helps you mix and match choices so you can see multiple configurations of your future without locking into one rigid plan. It’s a creative and flexible way to compare paths side by side.
 _Example fields and choices:_
 1. Positioning: How do you want to be seen?
@@ -100,7 +100,7 @@ Large, high-commitment actions where you’re staking your time, resources, or r
 Why: Big Bets have the highest potential payoff, but also the highest risk if the chosen future doesn’t materialize.
 
 **6) Signals, metrics, and triggers (leading → action): What signs should I watch for, how will I measure progress, and what will tell me to scale or pivot?**
-<img width="764" height="274" alt="Screen Shot 2025-08-05 at 2 10 23 PM" src="https://github.com/user-attachments/assets/4c6023bb-830c-47f5-8ce7-840a45b365ab" />
+<img width="764" height="274" alt="Screen Shot 2025-08-05 at 2 10 23 PM" src="https://github.com/user-attachments/assets/4c6023bb-830c-47f5-8ce7-840a45b365ab" /><br>
 Signals: _What to watch for_
 These are early signs (weak or strong) that indicate a shift is happening in the environment, market, or personal circumstances.
 * Purpose: Help you see change before it becomes obvious so you can prepare.
@@ -145,7 +145,7 @@ Power/Interest Matrix: _How much influence vs. how much they care_
 Place stakeholders on a grid based on:
 * Power: How much control or influence they have over the outcome.
 * Interest: How much they care about or are affected by the decision.
-<img width="569" height="224" alt="Screen Shot 2025-08-05 at 12 53 45 PM" src="https://github.com/user-attachments/assets/ace8825b-e253-49af-91f8-fd7efae03d55" />
+<img width="569" height="224" alt="Screen Shot 2025-08-05 at 12 53 45 PM" src="https://github.com/user-attachments/assets/ace8825b-e253-49af-91f8-fd7efae03d55" /><br>
 Engagement Actions: _How to work with them_
 * High Power, High Interest:
     * Schedule regular check-ins.
@@ -164,7 +164,7 @@ Engagement Actions: _How to work with them_
 * In uncertain futures, the right engagement strategy can unlock resources, reduce risks, and speed up decision-making.
 
 **8) Probes and low-cost experiments (from “probing” practice): What small, low-risk tests can I run to learn before committing to a path?**
-<img width="578" height="239" alt="Screen Shot 2025-08-05 at 12 54 07 PM" src="https://github.com/user-attachments/assets/f9552385-e55f-4299-9720-e8fd02433f31" />
+<img width="578" height="239" alt="Screen Shot 2025-08-05 at 12 54 07 PM" src="https://github.com/user-attachments/assets/f9552385-e55f-4299-9720-e8fd02433f31" /><br>
 It’s about running mini-trials to see if something works for me (or my audience) without making a big leap. For example:
 * If thinking about moving abroad: Spend 1–2 weeks in my target city to see how it feels to live there.
 * If considering a career shift: Take a short online course, shadow someone in the field, or do a freelance project in that area.
@@ -175,7 +175,7 @@ The idea is to learn fast, fail small, and gather evidence before making a major
 
 
 **9) Risks and mitigations: What could go wrong in each path, and how can I reduce or prepare for those risks?**
-<img width="606" height="255" alt="Screen Shot 2025-08-05 at 12 54 13 PM" src="https://github.com/user-attachments/assets/9493d8ce-82b6-40e1-aa32-64f64789e362" />
+<img width="606" height="255" alt="Screen Shot 2025-08-05 at 12 54 13 PM" src="https://github.com/user-attachments/assets/9493d8ce-82b6-40e1-aa32-64f64789e362" /><br>
 Identify possible risks:
 * List internal risks (skills gaps, burnout, financial instability, misalignment with values).
 * List external risks (market downturns, immigration policy changes, industry automation, platform algorithm changes).
@@ -214,7 +214,7 @@ Add opportunity cost:
 * What are you giving up by pursuing this path instead of another (e.g., missed income, slower skill growth in current field)?
 
 **11) Decision aid: Robustness vs Efficacy (simple Parmenides-style): How well does each path meet my goals, work in multiple futures, and inspire confidence right now?**
-<img width="913" height="157" alt="Screen Shot 2025-08-05 at 12 54 31 PM" src="https://github.com/user-attachments/assets/ce65dd37-ae44-4944-a565-aadfb8c51d97" />
+<img width="913" height="157" alt="Screen Shot 2025-08-05 at 12 54 31 PM" src="https://github.com/user-attachments/assets/ce65dd37-ae44-4944-a565-aadfb8c51d97" /><br>
 _Definition in context_
 This step is about scoring and comparing options (paths) in two ways:
 1. Robustness- How likely is this path to work out well across multiple possible futures (not just the most probable one)?
@@ -272,7 +272,7 @@ _Example with paths_
     * 90 days: Evaluate engagement data, refine approach, and set posting schedule.
 
 
-**13) Tools from the course (how to use them here): Which foresight tools should I use to analyze, test, and decide between these futures?**
+**13) Tools from the course (how to use them here): Which foresight tools should I use to analyze, test, and decide between these futures?**<br>
 Uncertainty–Impact matrix: place top 6 drivers for each path; focus work on top-right.
 Cross-impact analysis: note which drivers (e.g., funding, trust, policy) strongly affect others; treat as leading indicators.
 Scenario Cross: choose two axes that differentiate decisions most (e.g., Funding stability × Trust/Engagement) to stress-test each path.
