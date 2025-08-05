@@ -165,7 +165,7 @@ Engagement Actions: _How to work with them_
 * Identifying and mapping stakeholders helps you anticipate resistance, spot allies early, and avoid blindsiding key players.
 * In uncertain futures, the right engagement strategy can unlock resources, reduce risks, and speed up decision-making.
 
-**8) Probes and low-cost experiments (from “probing” practice): What small, low-risk tests can I run to learn before committing to a path?**
+**8) Probes and low-cost experiments (from “probing” practice): What small, low-risk tests can I run to learn before committing to a path?**<br>
 <img width="578" height="239" alt="Screen Shot 2025-08-05 at 12 54 07 PM" src="https://github.com/user-attachments/assets/f9552385-e55f-4299-9720-e8fd02433f31" /><br>
 It’s about running mini-trials to see if something works for me (or my audience) without making a big leap. For example:
 * If thinking about moving abroad: Spend 1–2 weeks in my target city to see how it feels to live there.
