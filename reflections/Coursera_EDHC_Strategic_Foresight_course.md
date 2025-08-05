@@ -100,7 +100,7 @@ Large, high-commitment actions where you’re staking your time, resources, or r
     * Launch a startup or major consulting business.
 Why: Big Bets have the highest potential payoff, but also the highest risk if the chosen future doesn’t materialize.
 
-**6) Signals, metrics, and triggers (leading → action): What signs should I watch for, how will I measure progress, and what will tell me to scale or pivot?**
+**6) Signals, metrics, and triggers (leading → action): What signs should I watch for, how will I measure progress, and what will tell me to scale or pivot?**<br>
 <img width="764" height="274" alt="Screen Shot 2025-08-05 at 2 10 23 PM" src="https://github.com/user-attachments/assets/4c6023bb-830c-47f5-8ce7-840a45b365ab" /><br>
 Signals: _What to watch for_
 These are early signs (weak or strong) that indicate a shift is happening in the environment, market, or personal circumstances.
