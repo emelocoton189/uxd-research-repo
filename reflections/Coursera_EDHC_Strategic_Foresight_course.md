@@ -80,7 +80,7 @@ _Example fields and choices:_
 
 <img width="851" height="271" alt="Screen Shot 2025-08-05 at 12 53 26 PM" src="https://github.com/user-attachments/assets/f175befa-d759-41a6-b029-d31b61c01041" /><br>
 
-1) No-regret moves: _Do these now._
+1) No-regret moves: _Do these now._<br>
 Actions that will benefit you no matter which future path you take. They’re safe, broadly useful, and low-risk.
 * Example:
     * Refresh and expand UX portfolio.
@@ -89,7 +89,7 @@ Actions that will benefit you no matter which future path you take. They’re sa
     * Improve skills like facilitation, storytelling, and foresight (transferable anywhere).
 Why: These moves keep the future flexible and always increase value.
 
-2) Options: _Keep these ready to activate if needed._
+2) Options: _Keep these ready to activate if needed._<br>
 Small, targeted investments in skills, assets, or relationships that you can scale up later if the future shifts that way.
 * Example:
     * Take an intro course in a potential new field (e.g., data visualization, environmental design).
@@ -98,7 +98,7 @@ Small, targeted investments in skills, assets, or relationships that you can sca
     * Volunteer in a different industry to explore fit without leaving the current one.
 Why: Options give you footholds in multiple futures without forcing you to commit before you’re ready.
 
-3) Big Bets: _Go all-in._
+3) Big Bets: _Go all-in._<br>
 Large, high-commitment actions where you’re staking your time, resources, or reputation on one path. These usually can’t be undone easily.
 * Example:
     * Enroll in a multi-year graduate program.
