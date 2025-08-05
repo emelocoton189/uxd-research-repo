@@ -60,7 +60,7 @@ _***Disclaimer: This content combines my notes, insights from course community d
 
 **4) Strategy Playbox (choices by field): What strategic choices could I make in each path across areas like positioning, offers, channels, and revenue models?**<br>
 
-<img width="931" height="266" alt="Screen Shot 2025-08-05 at 12 53 19 PM" src="https://github.com/user-attachments/assets/0b9ba7bf-430e-47f1-ab81-febd0159376a" /><br><br>
+<img width="931" height="266" alt="Screen Shot 2025-08-05 at 12 53 19 PM" src="https://github.com/user-attachments/assets/0b9ba7bf-430e-47f1-ab81-febd0159376a" /><br>
 
 A _Strategy Playbox_ is like a menu of possible moves one could make in different parts of their career or business. Instead of deciding everything at once, break thinking into fields (categories of strategic choices), then list options under each field for each possible future path to explore. The Strategy Playbox helps you mix and match choices so you can see multiple configurations of your future without locking into one rigid plan. It’s a creative and flexible way to compare paths side by side.
 _Example fields and choices:_
@@ -78,7 +78,7 @@ _Example fields and choices:_
 
 **5) No-regret moves, Options, Big Bets (course framing): What actions should I take now, which ones should I keep flexible, and which ones require full commitment?**<br>
 
-<img width="851" height="271" alt="Screen Shot 2025-08-05 at 12 53 26 PM" src="https://github.com/user-attachments/assets/f175befa-d759-41a6-b029-d31b61c01041" /><br><br>
+<img width="851" height="271" alt="Screen Shot 2025-08-05 at 12 53 26 PM" src="https://github.com/user-attachments/assets/f175befa-d759-41a6-b029-d31b61c01041" /><br>
 
 1) No-regret moves: _Do these now._
 Actions that will benefit you no matter which future path you take. They’re safe, broadly useful, and low-risk.
@@ -298,14 +298,13 @@ _Example with paths_
 
 **13) Tools from the course (how to use them here): Which foresight tools should I use to analyze, test, and decide between these futures?**<br>
 Uncertainty–Impact matrix: place top 6 drivers for each path; focus work on top-right.
-Cross-impact analysis: note which drivers (e.g., funding, trust, policy) strongly affect others; treat as leading indicators.
-Scenario Cross: choose two axes that differentiate decisions most (e.g., Funding stability × Trust/Engagement) to stress-test each path.
-Futures Wheel: draw chosen path in the center and map first- and second-order effects (you already have a visual).
-Strategy Playbox: list 4–6 “playing fields” and 3–4 options per field (see section 4). Combine into distinct strategies.
-No-regret / Options / Big bets: decide what you do now, what you scale with signals, and what you commit to with triggers.
-Power–Interest matrix: plan stakeholder engagement cadence (section 7).
-Quarterly review: update signals, move items between no-regrets/options/big bets, and record decisions.
-
+Cross-impact analysis: note which drivers (e.g., funding, trust, policy) strongly affect others; treat as leading indicators.<br>
+Scenario Cross: choose two axes that differentiate decisions most (e.g., Funding stability × Trust/Engagement) to stress-test each path.<br>
+Futures Wheel: draw chosen path in the center and map first- and second-order effects (you already have a visual).<br>
+Strategy Playbox: list 4–6 “playing fields” and 3–4 options per field (see section 4). Combine into distinct strategies.<br>
+No-regret / Options / Big bets: decide what you do now, what you scale with signals, and what you commit to with triggers.<br>
+Power–Interest matrix: plan stakeholder engagement cadence (section 7).<br>
+Quarterly review: update signals, move items between no-regrets/options/big bets, and record decisions.<br><br>
 
 **How to use this**
 1. Fill in scores and notes.
