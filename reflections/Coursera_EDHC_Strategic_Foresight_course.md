@@ -1,4 +1,4 @@
-When I was taking the Coursera EDHC Building Strategic Foresight course, one question lodged itself in my mind: _Why don’t we teach this in high school?!_
+When I was taking the Coursera _EDHC Building Strategic Foresight_ course, one question lodged itself in my mind: _Why don’t we teach this in high school?!_
 
 I flashed back to my graduation. That sinking, exhilarating moment when the world feels wide open but also terrifyingly blank. I had interests scattered across the map. None of them pointing to a clear career path. Like so many others, I was about to make a decision that would shape the next decade of my life… without a real framework to think it through.
 
