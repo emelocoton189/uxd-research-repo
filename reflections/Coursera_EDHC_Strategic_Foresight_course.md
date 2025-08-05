@@ -14,12 +14,15 @@ _***Disclaimer: This content combines my notes, insights from course community d
 * Focal question: “Which path best positions me for a resilient, meaningful career over the next 2–3 years?”
 * Time horizon: 24–36 months. Review quarterly.
 * Possible futures: 1) Go back to school, 2) Move abroad, 3) Shift industries, 4) Build a content-creator career.
+  
 <img width="2385" height="1977" alt="mini_futures_wheel" src="https://github.com/user-attachments/assets/59a6971c-5ef9-4d7b-84cf-fc0c87810abf" />
 
 **1) Snapshot (simple comparison): What are the key features, goals, risks, and upsides of each future path?**
+
 <img width="914" height="293" alt="Screen Shot 2025-08-05 at 12 53 00 PM" src="https://github.com/user-attachments/assets/11d4192e-644e-45d0-8481-a888124b8100" />
 
 **2) STEEP drivers and top uncertainties (use Uncertainty–Impact matrix): What social, technological, economic, ecological, and political factors will most influence each path, and which are high-impact and high-uncertainty?**
+
 <img width="1186" height="290" alt="Screen Shot 2025-08-05 at 12 53 12 PM" src="https://github.com/user-attachments/assets/84b0e88b-4bb0-4e2e-bec4-cac696599b66" />
 
 **3) Cross-impact highlights (which drivers move others?): Which drivers influence multiple other drivers and could create cascading effects?**
@@ -56,7 +59,9 @@ _***Disclaimer: This content combines my notes, insights from course community d
         * Hours spent on content creation vs. content administration
 
 **4) Strategy Playbox (choices by field): What strategic choices could I make in each path across areas like positioning, offers, channels, and revenue models?**
+
 <img width="931" height="266" alt="Screen Shot 2025-08-05 at 12 53 19 PM" src="https://github.com/user-attachments/assets/0b9ba7bf-430e-47f1-ab81-febd0159376a" /><br>
+
 A _Strategy Playbox_ is like a menu of possible moves one could make in different parts of their career or business. Instead of deciding everything at once, break thinking into fields (categories of strategic choices), then list options under each field for each possible future path to explore. The Strategy Playbox helps you mix and match choices so you can see multiple configurations of your future without locking into one rigid plan. It’s a creative and flexible way to compare paths side by side.
 _Example fields and choices:_
 1. Positioning: How do you want to be seen?
@@ -71,8 +76,10 @@ _Example fields and choices:_
 4. Revenue Models: How will you earn from this path?
     * Salary, retainer clients, project fees, ad revenue, sponsorships, subscriptions, or royalties.
 
-**5) No-regret moves, Options, Big Bets (course framing): What actions should I take now, which ones should I keep flexible, and which ones require full commitment?**
-<img width="851" height="271" alt="Screen Shot 2025-08-05 at 12 53 26 PM" src="https://github.com/user-attachments/assets/f175befa-d759-41a6-b029-d31b61c01041" />
+**5) No-regret moves, Options, Big Bets (course framing): What actions should I take now, which ones should I keep flexible, and which ones require full commitment?**<br>
+
+<img width="851" height="271" alt="Screen Shot 2025-08-05 at 12 53 26 PM" src="https://github.com/user-attachments/assets/f175befa-d759-41a6-b029-d31b61c01041" /><br>
+
 1) No-regret moves: _Do these now._
 Actions that will benefit you no matter which future path you take. They’re safe, broadly useful, and low-risk.
 * Example:
@@ -101,7 +108,9 @@ Large, high-commitment actions where you’re staking your time, resources, or r
 Why: Big Bets have the highest potential payoff, but also the highest risk if the chosen future doesn’t materialize.
 
 **6) Signals, metrics, and triggers (leading → action): What signs should I watch for, how will I measure progress, and what will tell me to scale or pivot?**<br>
+
 <img width="764" height="274" alt="Screen Shot 2025-08-05 at 2 10 23 PM" src="https://github.com/user-attachments/assets/4c6023bb-830c-47f5-8ce7-840a45b365ab" /><br>
+
 Signals: _What to watch for_
 These are early signs (weak or strong) that indicate a shift is happening in the environment, market, or personal circumstances.
 * Purpose: Help you see change before it becomes obvious so you can prepare.
@@ -132,8 +141,10 @@ Pre-defined thresholds or events that tell you it’s time to scale up, pivot, o
 * Metrics = the measurable proof you’re progressing.
 * Triggers = “if/then” rules for when to take action, pivot, or stop entirely.
 
-**7) Stakeholders and engagement (Power–Interest matrix): Who has power or interest in my decision, and how should I involve them?**
-<img width="917" height="188" alt="Screen Shot 2025-08-05 at 12 53 40 PM" src="https://github.com/user-attachments/assets/f298f6ee-9f7e-46ac-87a6-c5ec833f80a9" />
+**7) Stakeholders and engagement (Power–Interest matrix): Who has power or interest in my decision, and how should I involve them?**<br>
+
+<img width="917" height="188" alt="Screen Shot 2025-08-05 at 12 53 40 PM" src="https://github.com/user-attachments/assets/f298f6ee-9f7e-46ac-87a6-c5ec833f80a9" /><br>
+
 Stakeholders: _Who matters in your decision_
 These are people, groups, or organizations who can influence your decision, be impacted by it, or help you succeed.
 * Examples with paths:
@@ -145,7 +156,8 @@ These are people, groups, or organizations who can influence your decision, be i
 Power/Interest Matrix: _How much influence vs. how much they care_
 Place stakeholders on a grid based on:
 * Power: How much control or influence they have over the outcome.
-* Interest: How much they care about or are affected by the decision.
+* Interest: How much they care about or are affected by the decision.<br>
+
 <img width="569" height="224" alt="Screen Shot 2025-08-05 at 12 53 45 PM" src="https://github.com/user-attachments/assets/ace8825b-e253-49af-91f8-fd7efae03d55" /><br>
 
 Engagement Actions: _How to work with them_
@@ -166,7 +178,9 @@ Engagement Actions: _How to work with them_
 * In uncertain futures, the right engagement strategy can unlock resources, reduce risks, and speed up decision-making.
 
 **8) Probes and low-cost experiments (from “probing” practice): What small, low-risk tests can I run to learn before committing to a path?**<br>
+
 <img width="578" height="239" alt="Screen Shot 2025-08-05 at 12 54 07 PM" src="https://github.com/user-attachments/assets/f9552385-e55f-4299-9720-e8fd02433f31" /><br>
+
 It’s about running mini-trials to see if something works for me (or my audience) without making a big leap. For example:
 * If thinking about moving abroad: Spend 1–2 weeks in my target city to see how it feels to live there.
 * If considering a career shift: Take a short online course, shadow someone in the field, or do a freelance project in that area.
@@ -176,8 +190,10 @@ It’s about running mini-trials to see if something works for me (or my audienc
 The idea is to learn fast, fail small, and gather evidence before making a major decision.
 
 
-**9) Risks and mitigations: What could go wrong in each path, and how can I reduce or prepare for those risks?**
+**9) Risks and mitigations: What could go wrong in each path, and how can I reduce or prepare for those risks?**<br>
+
 <img width="606" height="255" alt="Screen Shot 2025-08-05 at 12 54 13 PM" src="https://github.com/user-attachments/assets/9493d8ce-82b6-40e1-aa32-64f64789e362" /><br>
+
 Identify possible risks:
 * List internal risks (skills gaps, burnout, financial instability, misalignment with values).
 * List external risks (market downturns, immigration policy changes, industry automation, platform algorithm changes).
@@ -195,8 +211,10 @@ Prepare contingency plans:
 Track early warning signs:
 * Define measurable signals that a risk is becoming more likely (e.g., job postings dropping, policy updates, competitor moves).
 
-**10) Costs, time, and simple ROI view: What will each path cost in time and money, and how long until I see returns?**
-<img width="1186" height="254" alt="Screen Shot 2025-08-05 at 2 18 11 PM" src="https://github.com/user-attachments/assets/bd698bf9-ee7d-4251-82ec-d070c55bbe76" />
+**10) Costs, time, and simple ROI view: What will each path cost in time and money, and how long until I see returns?**<br>
+
+<img width="1186" height="254" alt="Screen Shot 2025-08-05 at 2 18 11 PM" src="https://github.com/user-attachments/assets/bd698bf9-ee7d-4251-82ec-d070c55bbe76" /><br>
+
 Identify financial costs:
 * Upfront costs (tuition, relocation fees, equipment, training programs, legal/visa fees).
 * Ongoing costs (rent in a new city, software subscriptions, professional memberships, marketing expenses).
@@ -215,8 +233,10 @@ Use a simple ROI formula:
 Add opportunity cost:
 * What are you giving up by pursuing this path instead of another (e.g., missed income, slower skill growth in current field)?
 
-**11) Decision aid: Robustness vs Efficacy (simple Parmenides-style): How well does each path meet my goals, work in multiple futures, and inspire confidence right now?**
+**11) Decision aid: Robustness vs Efficacy (simple Parmenides-style): How well does each path meet my goals, work in multiple futures, and inspire confidence right now?**<br>
+
 <img width="913" height="157" alt="Screen Shot 2025-08-05 at 12 54 31 PM" src="https://github.com/user-attachments/assets/ce65dd37-ae44-4944-a565-aadfb8c51d97" /><br>
+
 _Definition in context_
 This step is about scoring and comparing options (paths) in two ways:
 1. Robustness- How likely is this path to work out well across multiple possible futures (not just the most probable one)?
@@ -236,8 +256,10 @@ _Example with paths_
 * Content creator career: Low–medium robustness (depends heavily on platform and market trends), high efficacy if creativity and autonomy are top goals 
 
 
-**12) 30 / 60 / 90-day actions: What should I do in the first 30, 60, and 90 days to move forward on each path?**
-<img width="1013" height="182" alt="Screen Shot 2025-08-05 at 12 54 38 PM" src="https://github.com/user-attachments/assets/0a69ec61-61c9-448c-a9b0-b386351af279" />
+**12) 30 / 60 / 90-day actions: What should I do in the first 30, 60, and 90 days to move forward on each path?**<br>
+
+<img width="1013" height="182" alt="Screen Shot 2025-08-05 at 12 54 38 PM" src="https://github.com/user-attachments/assets/0a69ec61-61c9-448c-a9b0-b386351af279" /><br>
+
 _Definition in context_
 This step is about turning each possible path into an immediately actionable plan—what you can do in the next 3 months to meaningfully explore or commit to that option. Breaking it into 30 / 60 / 90 days forces you to move from vague intentions (“I could do this someday…”) to concrete, time-bound steps.
 
