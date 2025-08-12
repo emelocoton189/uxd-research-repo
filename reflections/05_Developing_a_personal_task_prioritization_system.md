@@ -12,8 +12,8 @@ What happened? Micro-victories created motion. The yard looked better, the offic
 
 ✨The takeaway: When life feels like a backlog, design the conditions for progress, not just the plan. Make emotionally small steps, time-box them, and let momentum be your project manager.
 
-**Strategy to complete my list with padding, coordination, and rationale:**<br>
-_How I prioritized_
+**Strategy to complete my list with padding, coordination, and rationale**<br>
+_How I prioritized:_
 * Deadlines & risk reduction first: RESEA prep, packing, ACA plan, budget, lawyer call.
 * Compounding tasks next: Marketplace listings early so selling can happen over days; DMV options early to coordinate calendars.
 * Energy matching: Yard work mornings; admin mid-day; skill building (SketchUp) early afternoon; tiny tasks in 30–45 min sprints.
