@@ -1,7 +1,7 @@
 I used to think prioritizing was a spreadsheet problem. List the tasks, sort by “urgent,” then muscle through. But this summer, the list got louder than my brain: paint the office, pick an ACA plan, prep for RESEA, call the lawyer, sell the furniture, weed the beds, pack for a trip, plus the tiny-but-endless things like resetting passwords and cleaning the fridge. I felt like a PM with too many tickets and not enough sprint points.
 
-So I tried an experiment. What if I treated my to-do list like a user?
- **Mystery 1:** Could a messy list become a compass? 
+So I tried an experiment. What if I treated my to-do list like a user?<br>
+ **Mystery 1:** Could a messy list become a compass? <br>
 **Mystery 2:** If I broke everything into tiny, emotional wins, would momentum show up?
 
 I started by mapping constraints like I would for a service blueprint: yard work in the morning (heat), 1-hour work bursts (cognitive energy), kid bedtime at 7–7:30, standing weekly commitments, and the truth that everything takes longer than I want. I added a 20% buffer to every estimate. The list shrank from “impossible” to **~89 hours of work**, which became about **18 hours per week** for five weeks. Not easy, but human.
@@ -12,7 +12,7 @@ What happened? Micro-victories created motion. The yard looked better, the offic
 
 ✨The takeaway: When life feels like a backlog, design the conditions for progress, not just the plan. Make emotionally small steps, time-box them, and let momentum be your project manager.
 
-**Strategy to complete my list with padding, coordination, and rationale:**
+**Strategy to complete my list with padding, coordination, and rationale:**<br>
 _How I prioritized_
 * Deadlines & risk reduction first: RESEA prep, packing, ACA plan, budget, lawyer call.
 * Compounding tasks next: Marketplace listings early so selling can happen over days; DMV options early to coordinate calendars.
