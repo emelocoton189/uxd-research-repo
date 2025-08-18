@@ -50,4 +50,4 @@ And beyond the lessons about scope control or responsive design, this project re
 <img width="300" height="650" alt="Screen Shot 2025-08-18 at 12 15 51 PM" src="https://github.com/user-attachments/assets/90d81593-2c4a-4830-80ad-c207c60f606c" />
 <br>
 <br>
-<img width="704" height="650" alt="Screen Shot 2025-08-18 at 12 17 15 PM" src="https://github.com/user-attachments/assets/310105eb-17c0-4b96-9957-2556aa11b4f6" />
+<img width="500" height="500" alt="Screen Shot 2025-08-18 at 12 17 15 PM" src="https://github.com/user-attachments/assets/310105eb-17c0-4b96-9957-2556aa11b4f6" />
