@@ -26,5 +26,13 @@ There was one moment I’ll never forget: recruiting public users during an acti
 Looking back, I didn’t realize how much I was learning while I was just trying to get work done. I learned how to lead without authority, how to navigate resistance with empathy, and how to persist when no one is cheering you on.
 <br>
 <br>
+
 **✨ Takeaway:** <br>
 I also discovered something more personal. My "calling," if you will. I fell in love with the work of helping people make sense of public systems. That role didn’t just make me a UXer; it made me an advocate for human-centered public service.
+<br>
+<br>
+<img width="758" height="713" alt="Screen Shot 2025-08-18 at 12 10 26 PM" src="https://github.com/user-attachments/assets/563b8d3c-3c3c-4fb7-93a7-db82759d4756" />
+<br>
+<br>
+<img width="781" height="758" alt="Screen Shot 2025-08-18 at 12 10 54 PM" src="https://github.com/user-attachments/assets/445a7580-3f09-487c-9405-c7cae3b78b57" />
+
