@@ -42,12 +42,3 @@ What made this project work was rapport. The Developer and I built mutual respec
 <br>
 **✨ Takeaway:** <br>
 This project taught me that relationships are the _real_ bandwidth savers. When time is tight and stakes are high, people don’t rise to the occasion, they fall back on trust. Because of that trust, we were able to move as one unit, even under immense pressure.
-<br>
-<br>
-And beyond the lessons about scope control or responsive design, this project reminded me that impact doesn’t have to take years. Sometimes, it just takes six really focused, honest weeks with the right people, and the right mindset.
-<br>
-<br>
-<img width="300" height="650" alt="Screen Shot 2025-08-18 at 12 15 51 PM" src="https://github.com/user-attachments/assets/90d81593-2c4a-4830-80ad-c207c60f606c" />
-<br>
-<br>
-<img width="500" height="500" alt="Screen Shot 2025-08-18 at 12 17 15 PM" src="https://github.com/user-attachments/assets/310105eb-17c0-4b96-9957-2556aa11b4f6" />
