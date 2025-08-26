@@ -10,7 +10,7 @@ But the more I thought about it, the more it made sense. GitHub isn’t just for
 
 This repo is not a gallery of polished visuals or a pixel-perfect carousel of screens. It is a folder. A folder full of my systems thinking, decision-making, reflection, problem-solving, and storytelling. I use it to share how I approach experience research and strategy.
 
-Because here’s the thing. I’m not solely a visual designer. I never set out to be one. And while I understand the purpose of and deeply value design craft, I don’t believe compelling visuals should be the price of entry to share serious UX work. Especially when that work is about complex systems, inclusive content, user trust, and civic impact.
+Because here’s the thing. I’m not solely a visual designer. I never set out to be one. And while I understand the purpose of and deeply value design craft, I don’t believe compelling visuals should be the price of entry to share serious UX work. Especially when that work is about complex systems, inclusive content, user trust, and civic impact. UX also impacts many other aspects of life besides the work you do for your job.
 
 The market is changing. What employers value is shifting. And while that settles, I wanted to build a portfolio that reflects how I think, how I learn, and how I solve. Not just what I shipped.
 
