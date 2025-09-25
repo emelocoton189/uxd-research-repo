@@ -11,7 +11,7 @@ Teams previously assumed the “Coordinator View” was needed, but I discovered
 <br>
 <br>
 **The full story:** <br>
-When I joined the FDA CDRH program as a UX Lead, I was new. New to the team, to consulting, and Booz Allen. And I was assigned to the most difficult client on staff. That’s not hyperbole. It was something whispered in side chats, confirmed in the nervous tone people used when they said her name.
+When I joined the FDA CDRH program as a UX Lead, I was new. New to the team, to consulting, and Booz Allen. And I was assigned to the most difficult client on staff. That’s not hyperbole. It was something whispered in side chats, confirmed in the nervous tone people used when they said their name.
 
 The application I was responsible for improving was a dashboard tool for Device Manufacturers, people making products that save lives. But the way the dashboard had been designed? It reflected stakeholder assumptions more than user needs. I was told, quietly, that “we don’t push back on this client,” and once, after I asked a clarifying question during a meeting, I got a private message from the Business Analyst saying, “Let me do the talking.” That’s when I realized: this wasn’t just about the dashboard. This was about fear. And I didn't want to let fear decide what our users deserved.
 
