@@ -19,7 +19,7 @@ So I did what I came to do. I went to the source. I conducted 12 interviews with
 
 And that’s when the tension hit. Internal teammates were asking me, “Do you _really_ want to say this?” and suggesting we water down the findings. But I stood by my work. I ensured the research could speak for itself, even if/when the Zoom room got uncomfortable.
 
-To everyone’s surprise, the client not only agreed, but she endorsed my recommendations. Today, those changes are live, improving the experience for over 100,000 device manufacturers, streamlining communication between industry professionals and FDA reviewers, and helping get life-saving devices to market faster.
+To everyone’s surprise, the client not only agreed but endorsed my recommendations. Today, those changes are live, improving the experience for over 100,000 device manufacturers, streamlining communication between industry professionals and FDA reviewers, and helping get life-saving devices to market faster.
 <br>
 <br>
 **✨ Takeaway:** <br>
