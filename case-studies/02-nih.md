@@ -11,34 +11,90 @@ NIH stakeholders praised the final product, saying the quality of work and commu
 <br>
 <br>
 **The full story:** <br>
-When I arrived at the NIH Office of the Executive Secretariat, I knew two things. The last designer hadn’t finished the job, and this team —tired, overwhelmed, and low on time— was counting on someone to clean up a mess.
+When I arrived at the NIH Office of the Executive Secretariat, I walked into a room full of tired faces and half-finished work. I learned two things immediately:
+the last designer hadn’t completed the redesign; and this overworked, overwhelmed, and low-on-time team was hoping I could clean up a mess they no longer had the energy to untangle.
 
-At first glance, the website looked functional. But behind the scenes, the content hierarchy was confusing, accessibility had been overlooked, and the overall design lacked cohesion. It was like being handed a jigsaw puzzle with half the pieces replaced, and being told: “Can you make this make sense… in six weeks?”
+On the surface, the website looked fine. Functional, even.
+But the moment I opened the CMS, something felt off.
+Pages were stitched together from mismatched components. Navigation patterns contradicted each other. Accessibility violations were everywhere.
 
-There were only three of us: one UX Designer (me), one Developer, and one Business Analyst. The previous team had six months. We had six weeks. The mystery that drove me: Why did the last team struggle so much? And more importantly: Could we pull this off in time?
+It felt like someone had dumped out a thousand-piece puzzle, replaced half the pieces with duplicates, and then said:
+“Can you make this coherent _in six weeks or fewer_?”
 
-The emotional weight came fast. We weren’t just designing pages. We were redesigning a system that supported the COVID-19 response for official NIH communications with Congress and the public. And every minute mattered.
+And that became the mystery that pulled me into the project:
+If a previous team had six months, why had everything fallen apart?
 
-To stay sane and keep moving, I established guardrails in place from day one:
+But then a second question arrived, one that mattered even more:
+Could the three of us—one Designer (me), one Developer, one BA actually pull this off in time, especially during an active COVID-19 response?
 
-    - Every meeting had a strict agenda and timebox.
+That emotional weight landed early.
+This wasn’t a cosmetic refresh.
+This was the system that supported official NIH communications with Congress and the public. The wrong information or inaccessible structure wasn’t an _inconvenience_. It was a _risk_.
 
-    - I asked leadership to help define “done” for every task.
+To keep myself steady, I set guardrails on day one:
 
-    - I made it clear I would have to prioritize speed even over polish, and accessibility would be embedded.
+- every meeting had a strict agenda and timebox,
 
-I tackled the mess like a triage nurse:
+- leadership helped define “done” for each deliverable,
 
-    - Rewrote and simplified dense content into plain language.
+- speed mattered, but accessibility was non-negotiable.
 
-    - Restructured the site’s navigation based on urgency and user intent.
+Only after those boundaries were in place could I start solving the puzzle.
+<br><br>
 
-    - Designed responsive, mobile-first wireframes that scaled smoothly across devices.
+**Applying research methods under pressure (and choosing the right ones fast)**
 
-    - Built a living style guide so that once I left, the remaining team could confidently carry on without me.
+Before touching a single page, I ran a rapid content audit: a quantitative sweep to capture page counts, template types, and accessibility violations. It was the only way to understand the scale of the mess.
 
-What made this project work was rapport. The Developer and I built mutual respect fast. No egos, no friction. But even so, there were nights I was editing wireframes near midnight just to be ready for the next morning's standup. The pressure was real.
-<br>
-<br>
-**✨ Takeaway:** <br>
-This project taught me that relationships are the _real_ bandwidth savers. When time is tight and stakes are high, people don’t rise to the occasion, they fall back on trust. Because of that trust, we were able to move as one unit, even under immense pressure.
+Then I paired it with qualitative usability heuristics: scanning for cognitive load, redundancy, readability barriers, unclear mental models, and visual hierarchy flaws. This told me why users were struggling, not just where.
+
+During the redesign phase, I did short, focused stakeholder interviews to understand internal workflows and what “success” looked like. We didn’t have time for long-form research, so each session was structured around decision points that influenced content priority and navigation.
+
+And because we couldn’t run full formal usability tests in the timeline, I conducted quick remote walkthroughs with staff who depended on the site daily. Their feedback became the north star for what needed to be fixed first, not just what needed to look better.
+
+These methods fed each phase of work:
+
+Discovery → Audit + Heuristics<br>
+Definition → Stakeholder interviews<br>
+Design → Low-fi wireframes + task flows<br>
+Validation → Rapid feedback sessions<br>
+
+It wasn’t textbook perfect, but it was the _right research_ at the _right fidelity_ at the _right moments_.
+<br><br>
+
+**Designing at triage speed!**
+
+Once I understood the real shape of the problem, I moved into full triage mode:
+
+I rewrote dense policy pages into plain language so staff and policymakers could understand them at a glance.
+
+I rebuilt the navigation around urgency and user intent—not historical structure.
+
+I designed responsive, mobile-first wireframes that scaled cleanly instead of collapsing on smaller screens.
+
+And because I knew I’d eventually roll off the project, I built a living style guide so the remaining team could maintain consistency after my departure.
+
+And through all of this, there was an unspoken truth: we were sprinting.
+There were nights when I was editing wireframes close to midnight just to stay ahead of the next morning’s standup. The pressure was real, and there was no room for ego.
+
+What saved us was rapport.
+
+The Developer and I synced almost immediately.
+The BA filled in gaps with clarity and steadiness.
+We moved like a unit, not three people doing separate jobs.
+
+That trust did more for our velocity than any process ever could have.
+<br><br>
+
+**✨ Lesson: Trust moves faster than deadlines.**
+
+This project taught me something I had never learned from a book, a framework, or a template:
+
+When time is tight and stakes are high, teams don’t rise to the occasion. They fall back on trust.
+
+Without trust, alignment collapses. Without alignment, speed is impossible.
+But when people feel safe, supported, and respected, even a six-month redesign can be condensed into six weeks without breaking anyone in the process.
+
+That lesson reshaped the way I approach every team I join.
+Before pixels, before diagrams, before audits: I build rapport.
+Everything else accelerates from there.
