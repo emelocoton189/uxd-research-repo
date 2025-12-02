@@ -27,7 +27,7 @@ So I went to my UX Lead and said the thing I wasn’t sure I was even “allowed
 
 It felt risky. The kind of suggestion that could easily be misinterpreted as scope creep or over-engineering. But instead of shutting it down, my Lead said, “Show me.”
 
-I sketched rough wireframes—just enough to illustrate another question forming in the back of my mind: If the work is bigger, what would it actually take to make it feel smaller for the user?
+I sketched rough enough wireframes to illustrate another question forming in the back of my mind: If the work is bigger, what would it actually take to make it feel smaller for the user?
 Reduced clicks. A flow that could handle complexity. A system that didn’t collapse under the weight of its own purpose.
 
 When we took the reframed vision to the PM, I expected polite resistance. Instead, they leaned in. They saw the gap. They agreed the user needed something more substantial.
