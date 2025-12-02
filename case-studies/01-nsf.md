@@ -1,4 +1,4 @@
-**Project:** Application Design Research for Foreign Financial Disclosure Reporting<br>
+**Project:** App Design Research for Foreign Financial Disclosure Reporting<br>
 **Client:** NSF, IT Mission Application Support<br>
 **Role:** UX Analyst & Research Lead
 
@@ -11,8 +11,6 @@ After launch, a user described the new interface as “much cleaner” than lega
 <br>
 <br>
 **The full story:** <br>
-Reflection: The Moment I Realized a “Simple Form” Could Break an Entire System
-
 The first time I saw the support request, I felt that familiar tug in my stomach—the one that shows up when something looks small on paper but feels enormous in real life. The client needed a web form. Nothing fancy. Just a way for U.S. research institutions to report contributions from foreign entities of concern.
 
 Straightforward… or so it looked.
