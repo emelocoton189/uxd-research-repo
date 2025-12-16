@@ -70,7 +70,7 @@ It’s about participation.<br><br>
 
 There’s one moment I’ll never forget.
 
-I needed to recruit public users during an active legislative session—peak chaos. I was told flat out that it couldn’t be done. Too risky. Too busy. Too visible.
+I needed to recruit public users during an active legislative session: _peak chaos_. I was told flat out that it couldn’t be done. Too risky. Too busy. Too visible.
 
 But instead of framing the ask as usability testing, I reframed it as citizen service.
 We weren’t testing a site.
