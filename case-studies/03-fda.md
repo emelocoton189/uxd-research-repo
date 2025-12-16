@@ -29,7 +29,7 @@ And then the second question followed: If no one feels safe pushing back, how do
 
 I didn’t want fear deciding what 100,000 manufacturers experienced, so I went to the source.<br><br>
 
-**Discovery: Qualitative research to surface the real workflow**<br><br>
+**Discovery: Qualitative research to surface the real workflow**<br>
 
 I conducted 12 in-depth interviews with device manufacturers across company size, submission volume, and regulatory familiarity. These were not usability tests yet. They were workflow conversations.
 
@@ -50,7 +50,7 @@ As I synthesized the interviews using affinity mapping, a pattern emerged that n
 Manufacturers weren’t confused by the number of screens.
 They were slowed down by missing information at the moment decisions were made.<br><br>
 
-**Definition: Quantitative signals that confirmed the story**<br><br>
+**Definition: Quantitative signals that confirmed the story**<br>
 
 To validate what I was hearing, I reviewed usage data and workflow artifacts tied to submission processing and follow-up cycles. While I didn’t need heavy analytics to see the problem, the numbers reinforced the interviews:
 
@@ -74,7 +74,7 @@ That missing column was forcing manufacturers to leave their primary workflow ju
 So the problem wasn’t “Which view is better?”
 The problem was why essential information was hidden at all.<br><br>
 
-**Design: Turning insight into a clear, defensible recommendation**<br><br>
+**Design: Turning insight into a clear, defensible recommendation**<br>
 
 Instead of debating screens, I reframed the conversation around information architecture and decision-making moments.
 
@@ -106,7 +106,7 @@ And more importantly, it was accurate.
 I didn’t argue.
 I let the users speak.<br><br>
 
-**Validation: When evidence shifted the room**<br><br>
+**Validation: When evidence shifted the room**<br>
 
 When we presented the findings, the Zoom room felt tight.
 Then something unexpected happened.
@@ -119,7 +119,7 @@ By focusing on why the Coordinator View existed rather than defending it, the co
 
 Today, those changes support over 100,000 device manufacturers, improving collaboration between industry professionals and FDA reviewers and helping life-saving devices reach the market faster.<br><br>
 
-**✨ Lesson: Quiet courage can change systems**<br><br>
+**✨ Lesson: Quiet courage can change systems**<br>
 
 This project taught me that leadership in UX doesn’t always look like being the loudest voice in the room.
 
