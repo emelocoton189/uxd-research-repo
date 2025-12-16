@@ -88,13 +88,13 @@ I produced a research-backed recommendation that was intentionally calm and prec
 
 I supported the recommendation with:
 
-- Direct interview quotes
+- Direct interview quotes;
 
-- Workflow diagrams
+- Workflow diagrams;
 
-- Before-and-after task flows
+- Before-and-after task flows;
 
-- Evidence showing reduced cognitive load and fewer handoffs
+- Evidence showing reduced cognitive load and fewer handoffs.
 
 And _that’s_ when the tension peaked.
 
